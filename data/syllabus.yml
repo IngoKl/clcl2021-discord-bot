@@ -1,0 +1,43 @@
+sessions:
+  - session:
+      date: 16.04.2021
+      title: Welcome and Introduction
+  - session:
+      date: 23.04.2021
+      title: Introduction to Corpus- and Computational Linguistics
+  - session:
+      date: 30.04.2021
+      title: Operationalizing Linguistic Questions and Feature Engineering
+  - session:
+      date: 07.05.2021
+      title: Corpus Compilation and Data Management
+  - session:
+      date: 14.05.2021
+      title: Basic Text Processing
+  - session:
+      date: 21.05.2021
+      title: Corpus Analysis - Concordances, Frequencies, and Collocations
+  - session:
+      date: 04.06.2021
+      title: Python for Linguistics I
+  - session:
+      date: 11.06.2021
+      title: Python for Linguistics II
+  - session:
+      date: 18.06.2021
+      title: Annotation, Tagging and Parsing
+  - session:
+      date: 25.06.2021
+      title: Representing and Modeling Language
+  - session:
+      date: 02.07.2021
+      title: Corpus/Computational Linguistics and Foreign Language Teaching
+  - session:
+      date: 09.07.2021
+      title: Chatbots and Dialogue Systems
+  - session:
+      date: 16.07.2021
+      title: Machine- and Deep Learning – The Neural Turn 
+  - session:
+      date: 23.07.2021
+      title: Revision and Conclusions

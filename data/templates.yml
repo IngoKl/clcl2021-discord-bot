@@ -1,0 +1,16 @@
+greet:
+  - Hi!
+  - Hi $entity!
+  - Welcome!
+  - Hey, how are you doing $entity?
+pizza_menu:
+  - Sure, there is the menu 📑
+  - We've got pizza and soda
+pizza_order:
+  - Order up! Here is your pizza 🍕
+  - 🍕 Best slice on Discord!
+coke_order:
+  - Order up! Here is your drink 🥛
+  - Enjoy your drink!
+default:
+  - I'm sorry, but I don't understand!
