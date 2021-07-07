@@ -14,7 +14,7 @@ This is a minimalistic Discord bot template using `discord.py`. This is meant as
 
 This basic bot includes three demonstrative features:
 
-In `feature_dialogue` you will find a dialogue system immitating a cashier/store situation. It is based on a simple state machine.
+In `feature_dialogue.py` you will find a dialogue system immitating a cashier/store situation. It is based on a simple state machine. This also demonstrates the idea of an *app* within a more general conversational system.
 
 In `feature_syllabus.py` you will find a simple function that returns the previous and next session in the course. In `bot.py` this is hooked to two keywords that will trigger the function.
 
