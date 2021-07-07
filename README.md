@@ -10,6 +10,8 @@ This is a minimalistic Discord bot template using `discord.py`. This is meant as
 4. Copy the `default.yml` file and add your token (see step 1)
 5. Run the basic bot using `python bot.py your_config.yml`
 
+If you don't want to connect to an actual server, you can use the `experiment.py` to play with the bot locally.
+
 ## Features
 
 This basic bot includes three demonstrative features:

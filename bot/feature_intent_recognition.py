@@ -20,6 +20,8 @@ def pizza_intent(message_text):
         # The first item in each list will be the 'canonical' form
         verb_list = [('order', 'want', 'give', 'make', 'get', 'take'), ('show', 'hand', 'find')]
         verb_syns = [item for item in verb_list if verb in item]
+
+        print(verb_syns)
         
         dobj_list = [('pizza', 'pie', 'dish', 'slice'), ('coke', 'soda', 'pop'), ('menu', 'options', 'offers')]
         dobj_syns = [item for item in dobj_list if dobj in item]
@@ -40,3 +42,5 @@ def pizza_intent(message_text):
     
     else:
         return False
+
+
